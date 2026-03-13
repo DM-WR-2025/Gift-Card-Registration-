@@ -471,5 +471,3 @@ default: result.innerText="No action selected"
 document.getElementById("historyDetails").style.display="block"
 }
 </script>
-</body>
-</html>
